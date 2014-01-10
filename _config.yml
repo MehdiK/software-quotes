@@ -4,10 +4,10 @@
 
 url: http://MehdiK.github.io/software-quotes
 title: Software Quotes
-subtitle: A list of awesome quotes about software development
-author: Mehdi Khalili
+subtitle: Awesome quotes about software development
+author: <a href="http://www.mehdi-khalili.com">Mehdi Khalili</a>
 simple_search: http://google.com/search
-description: A list of awesome quotes about software development for your reference
+description: Awesome quotes about software development for your reference
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
