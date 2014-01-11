@@ -3,7 +3,7 @@ layout: post
 title: "The best programmers write only easy programs."
 date: 2014-01-11
 comments: false
-categories: 
+categories: ["Simplicity"]
 ---
 
 <span class='quote'>"The best programmers write only easy programs."</span>

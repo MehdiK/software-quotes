@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Software Quotes]]></title>
-  <link href="http://software-quot.es/atom.xml" rel="self"/>
-  <link href="http://software-quot.es/"/>
-  <updated>2014-01-11T12:21:58+03:30</updated>
-  <id>http://software-quot.es/</id>
+  <link href="http://www.software-quot.es/atom.xml" rel="self"/>
+  <link href="http://www.software-quot.es/"/>
+  <updated>2014-01-11T15:35:20+03:30</updated>
+  <id>http://www.software-quot.es/</id>
   <author>
     <name><![CDATA[Mehdi Khalili]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[You're Bound to Be Unhappy if You Optimize Everything.]]></title>
-    <link href="http://software-quot.es/youre-bound-to-be-unhappy-if-you-optimize-everything/"/>
+    <link href="http://www.software-quot.es/youre-bound-to-be-unhappy-if-you-optimize-everything/"/>
     <updated>2014-01-11T00:00:00+03:30</updated>
-    <id>http://software-quot.es/youre-bound-to-be-unhappy-if-you-optimize-everything</id>
+    <id>http://www.software-quot.es/youre-bound-to-be-unhappy-if-you-optimize-everything</id>
     <content type="html"><![CDATA[<p><span class='quote'>&ldquo;You&rsquo;re bound to be unhappy if you optimize everything.&rdquo;</span>
 <span class='by'>&ndash; Donald E. Knuth</span></p>
 ]]></content>
@@ -25,9 +25,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Trouble With Programmers Is That You Can Never Tell What a Programmer Is Doing Until It's Too Late.]]></title>
-    <link href="http://software-quot.es/you-can-never-tell-what-a-programmer-is-doing-until-its-too-late/"/>
+    <link href="http://www.software-quot.es/you-can-never-tell-what-a-programmer-is-doing-until-its-too-late/"/>
     <updated>2014-01-11T00:00:00+03:30</updated>
-    <id>http://software-quot.es/you-can-never-tell-what-a-programmer-is-doing-until-its-too-late</id>
+    <id>http://www.software-quot.es/you-can-never-tell-what-a-programmer-is-doing-until-its-too-late</id>
     <content type="html"><![CDATA[<p><span class='quote'>&ldquo;The trouble with programmers is that you can never tell what a programmer is doing until it&rsquo;s too late.&rdquo;</span>
 <span class='by'>&ndash; Seymour Cray</span></p>
 ]]></content>
@@ -35,9 +35,9 @@
   
   <entry>
     <title type="html"><![CDATA[Work Expands So as to Fill the Time Available for Its Completion.]]></title>
-    <link href="http://software-quot.es/work-expands-so-as-to-fill-the-time-available-for-its-completion/"/>
+    <link href="http://www.software-quot.es/work-expands-so-as-to-fill-the-time-available-for-its-completion/"/>
     <updated>2014-01-11T00:00:00+03:30</updated>
-    <id>http://software-quot.es/work-expands-so-as-to-fill-the-time-available-for-its-completion</id>
+    <id>http://www.software-quot.es/work-expands-so-as-to-fill-the-time-available-for-its-completion</id>
     <content type="html"><![CDATA[<p><span class='quote'>&ldquo;Work expands so as to fill the time available for its completion.&rdquo;</span>
 <span class='by'>&ndash; Parkinson&rsquo;s Law</span></p>
 ]]></content>
@@ -45,9 +45,9 @@
   
   <entry>
     <title type="html"><![CDATA[Crash Programs Fail Because They Are Based on the Theory That, With Nine Women Pregnant, You Can Get a Baby a Month.]]></title>
-    <link href="http://software-quot.es/with-nine-women-pregnant-can-you-get-a-baby-a-month/"/>
+    <link href="http://www.software-quot.es/with-nine-women-pregnant-can-you-get-a-baby-a-month/"/>
     <updated>2014-01-11T00:00:00+03:30</updated>
-    <id>http://software-quot.es/with-nine-women-pregnant-can-you-get-a-baby-a-month</id>
+    <id>http://www.software-quot.es/with-nine-women-pregnant-can-you-get-a-baby-a-month</id>
     <content type="html"><![CDATA[<p><span class='quote'>&ldquo;Crash programs fail because they are based on the theory that, with nine women pregnant, you can get a baby a month.&rdquo;</span>
 <span class='by'>&ndash; Wernher von Braun</span></p>
 ]]></content>
@@ -55,9 +55,9 @@
   
   <entry>
     <title type="html"><![CDATA[When the Final Design Seems Too Simple for the Amount of Work You've Put in, Then You Know You're Done.]]></title>
-    <link href="http://software-quot.es/when-the-final-design-seems-too-simple-for-the-amount-of-work-youve-put-in/"/>
+    <link href="http://www.software-quot.es/when-the-final-design-seems-too-simple-for-the-amount-of-work-youve-put-in/"/>
     <updated>2014-01-11T00:00:00+03:30</updated>
-    <id>http://software-quot.es/when-the-final-design-seems-too-simple-for-the-amount-of-work-youve-put-in</id>
+    <id>http://www.software-quot.es/when-the-final-design-seems-too-simple-for-the-amount-of-work-youve-put-in</id>
     <content type="html"><![CDATA[<p><span class='quote'>&ldquo;When the final design seems too simple for the amount of work you&rsquo;ve put in, then you know you&rsquo;re done.&rdquo;</span>
 <span class='by'>&ndash; Brady Clark</span></p>
 ]]></content>
@@ -65,9 +65,9 @@
   
   <entry>
     <title type="html"><![CDATA[When in Doubt, Leave It Out.]]></title>
-    <link href="http://software-quot.es/when-in-doubt-leave-it-out/"/>
+    <link href="http://www.software-quot.es/when-in-doubt-leave-it-out/"/>
     <updated>2014-01-11T00:00:00+03:30</updated>
-    <id>http://software-quot.es/when-in-doubt-leave-it-out</id>
+    <id>http://www.software-quot.es/when-in-doubt-leave-it-out</id>
     <content type="html"><![CDATA[<p><span class='quote'>&ldquo;When in doubt, leave it out.&rdquo;</span>
 <span class='by'>— Joshua Bloch</span></p>
 ]]></content>
@@ -75,9 +75,9 @@
   
   <entry>
     <title type="html"><![CDATA[This Is Where Programming Ends, and the Real Detective Work Begins.]]></title>
-    <link href="http://software-quot.es/this-is-where-programming-ends-and-the-real-detective-work-begins/"/>
+    <link href="http://www.software-quot.es/this-is-where-programming-ends-and-the-real-detective-work-begins/"/>
     <updated>2014-01-11T00:00:00+03:30</updated>
-    <id>http://software-quot.es/this-is-where-programming-ends-and-the-real-detective-work-begins</id>
+    <id>http://www.software-quot.es/this-is-where-programming-ends-and-the-real-detective-work-begins</id>
     <content type="html"><![CDATA[<p><span class='quote'>&ldquo;This is where programming ends, and the real detective work begins.&rdquo;</span>
 <span class='by'>&ndash; Phillip Winter</span></p>
 ]]></content>
@@ -85,9 +85,9 @@
   
   <entry>
     <title type="html"><![CDATA[There Is Absolutely No Reason to Make Computers as Stupid as People Are.]]></title>
-    <link href="http://software-quot.es/there-is-absolutely-no-reason-to-make-computers-as-stupid-as-people-are/"/>
+    <link href="http://www.software-quot.es/there-is-absolutely-no-reason-to-make-computers-as-stupid-as-people-are/"/>
     <updated>2014-01-11T00:00:00+03:30</updated>
-    <id>http://software-quot.es/there-is-absolutely-no-reason-to-make-computers-as-stupid-as-people-are</id>
+    <id>http://www.software-quot.es/there-is-absolutely-no-reason-to-make-computers-as-stupid-as-people-are</id>
     <content type="html"><![CDATA[<p><span class='quote'>&ldquo;There is absolutely no reason to make computers as stupid as people are.&rdquo;</span>
 <span class='by'>&ndash; Nigel Jacob</span></p>
 ]]></content>
@@ -95,9 +95,9 @@
   
   <entry>
     <title type="html"><![CDATA[There Are Thousands of Ways to Mess Up or Damage a Software Projects, and Only a Few Ways to Do Them Well.]]></title>
-    <link href="http://software-quot.es/there-are-thousands-of-ways-to-mess-up-or-damage-a-software-projects/"/>
+    <link href="http://www.software-quot.es/there-are-thousands-of-ways-to-mess-up-or-damage-a-software-projects/"/>
     <updated>2014-01-11T00:00:00+03:30</updated>
-    <id>http://software-quot.es/there-are-thousands-of-ways-to-mess-up-or-damage-a-software-projects</id>
+    <id>http://www.software-quot.es/there-are-thousands-of-ways-to-mess-up-or-damage-a-software-projects</id>
     <content type="html"><![CDATA[<p><span class='quote'>&ldquo;There are thousands of ways to mess up or damage a software projects, and only a few ways to do them well.&rdquo;</span>
 <span class='by'>&ndash; Capers Jones</span></p>
 ]]></content>
@@ -105,9 +105,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Whole Point of Getting Things Done Is Knowing What to Leave Undone.]]></title>
-    <link href="http://software-quot.es/the-whole-point-of-getting-things-done-is-knowing-what-to-leave-undone/"/>
+    <link href="http://www.software-quot.es/the-whole-point-of-getting-things-done-is-knowing-what-to-leave-undone/"/>
     <updated>2014-01-11T00:00:00+03:30</updated>
-    <id>http://software-quot.es/the-whole-point-of-getting-things-done-is-knowing-what-to-leave-undone</id>
+    <id>http://www.software-quot.es/the-whole-point-of-getting-things-done-is-knowing-what-to-leave-undone</id>
     <content type="html"><![CDATA[<p><span class='quote'>&ldquo;The whole point of getting things done is knowing what to leave undone.&rdquo;</span>
 <span class='by'>— Oswald Chambers</span></p>
 ]]></content>
@@ -115,9 +115,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Unavoidable Price of Reliability Is Simplicity.]]></title>
-    <link href="http://software-quot.es/the-unavoidable-price-of-reliability-is-simplicity/"/>
+    <link href="http://www.software-quot.es/the-unavoidable-price-of-reliability-is-simplicity/"/>
     <updated>2014-01-11T00:00:00+03:30</updated>
-    <id>http://software-quot.es/the-unavoidable-price-of-reliability-is-simplicity</id>
+    <id>http://www.software-quot.es/the-unavoidable-price-of-reliability-is-simplicity</id>
     <content type="html"><![CDATA[<p><span class='quote'>&ldquo;The unavoidable price of reliability is simplicity.&rdquo;</span>
 <span class='by'>&ndash; C. A. R. Hoare</span></p>
 ]]></content>
@@ -125,9 +125,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Ultimate Management Sin Is Wasting People's Time.]]></title>
-    <link href="http://software-quot.es/the-ultimate-management-sin-is-wasting-peoples-time/"/>
+    <link href="http://www.software-quot.es/the-ultimate-management-sin-is-wasting-peoples-time/"/>
     <updated>2014-01-11T00:00:00+03:30</updated>
-    <id>http://software-quot.es/the-ultimate-management-sin-is-wasting-peoples-time</id>
+    <id>http://www.software-quot.es/the-ultimate-management-sin-is-wasting-peoples-time</id>
     <content type="html"><![CDATA[<p><span class='quote'>&ldquo;The ultimate management sin is wasting people&rsquo;s time.&rdquo;</span>
 <span class='by'>&ndash; T. DeMarco and T. Lister</span></p>
 ]]></content>
@@ -135,9 +135,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Trick Is to Fix the Problem You Have, Rather Than the Problem You Want.]]></title>
-    <link href="http://software-quot.es/the-trick-is-to-fix-the-problem-you-have-rather-than-the-problem-you-want/"/>
+    <link href="http://www.software-quot.es/the-trick-is-to-fix-the-problem-you-have-rather-than-the-problem-you-want/"/>
     <updated>2014-01-11T00:00:00+03:30</updated>
-    <id>http://software-quot.es/the-trick-is-to-fix-the-problem-you-have-rather-than-the-problem-you-want</id>
+    <id>http://www.software-quot.es/the-trick-is-to-fix-the-problem-you-have-rather-than-the-problem-you-want</id>
     <content type="html"><![CDATA[<p><span class='quote'>&ldquo;The trick is to fix the problem you have, rather than the problem you want.&rdquo;</span>
 <span class='by'>— Bram Cohen</span></p>
 ]]></content>
@@ -145,9 +145,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Structure of a Software System Will Reflect the Communication Structure of the Team That Built It]]></title>
-    <link href="http://software-quot.es/the-structure-of-a-system-reflects-the-communication-structure-of-the-team/"/>
+    <link href="http://www.software-quot.es/the-structure-of-a-system-reflects-the-communication-structure-of-the-team/"/>
     <updated>2014-01-11T00:00:00+03:30</updated>
-    <id>http://software-quot.es/the-structure-of-a-system-reflects-the-communication-structure-of-the-team</id>
+    <id>http://www.software-quot.es/the-structure-of-a-system-reflects-the-communication-structure-of-the-team</id>
     <content type="html"><![CDATA[<p><span class='quote'>&ldquo;The structure of a software system will reflect the communication structure of the team that built it&rdquo;</span>
 <span class='by'>&ndash; R. E. Fairley</span></p>
 ]]></content>
@@ -155,9 +155,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Purpose of Software Engineering Is to Control Complexity, Not to Create It.]]></title>
-    <link href="http://software-quot.es/the-purpose-of-software-engineering-is-to-control-complexity-not-to-create-it/"/>
+    <link href="http://www.software-quot.es/the-purpose-of-software-engineering-is-to-control-complexity-not-to-create-it/"/>
     <updated>2014-01-11T00:00:00+03:30</updated>
-    <id>http://software-quot.es/the-purpose-of-software-engineering-is-to-control-complexity-not-to-create-it</id>
+    <id>http://www.software-quot.es/the-purpose-of-software-engineering-is-to-control-complexity-not-to-create-it</id>
     <content type="html"><![CDATA[<p><span class='quote'>&ldquo;The purpose of software engineering is to control complexity, not to create it.&rdquo;</span>
 <span class='by'>&ndash; Pamela Zave</span></p>
 ]]></content>
@@ -165,9 +165,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Most Important Skill of a Manager Is to Know When to Kill Your Own Project.]]></title>
-    <link href="http://software-quot.es/the-most-important-skill-of-a-manager-is-to-know-when-to-kill-your-own-project/"/>
+    <link href="http://www.software-quot.es/the-most-important-skill-of-a-manager-is-to-know-when-to-kill-your-own-project/"/>
     <updated>2014-01-11T00:00:00+03:30</updated>
-    <id>http://software-quot.es/the-most-important-skill-of-a-manager-is-to-know-when-to-kill-your-own-project</id>
+    <id>http://www.software-quot.es/the-most-important-skill-of-a-manager-is-to-know-when-to-kill-your-own-project</id>
     <content type="html"><![CDATA[<p><span class='quote'>&ldquo;The most important skill of a manager is to know when to kill your own project.&rdquo;</span>
 <span class='by'>&ndash; Keith Rowe</span></p>
 ]]></content>
@@ -175,9 +175,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Most Important Single Aspect of Software Development Is to Be Clear About What You Are Trying to Build.]]></title>
-    <link href="http://software-quot.es/the-most-important-single-aspect-of-software-development/"/>
+    <link href="http://www.software-quot.es/the-most-important-single-aspect-of-software-development/"/>
     <updated>2014-01-11T00:00:00+03:30</updated>
-    <id>http://software-quot.es/the-most-important-single-aspect-of-software-development</id>
+    <id>http://www.software-quot.es/the-most-important-single-aspect-of-software-development</id>
     <content type="html"><![CDATA[<p><span class='quote'>&ldquo;The most important single aspect of software development is to be clear about what you are trying to build.&rdquo;</span>
 <span class='by'>&ndash; Bjarne Stroustrup</span></p>
 ]]></content>
@@ -185,9 +185,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Manager's Function Is Not to Make People Work, It Is to Make It Possible for People to Work.]]></title>
-    <link href="http://software-quot.es/the-managers-function-is-not-to-make-people-work/"/>
+    <link href="http://www.software-quot.es/the-managers-function-is-not-to-make-people-work/"/>
     <updated>2014-01-11T00:00:00+03:30</updated>
-    <id>http://software-quot.es/the-managers-function-is-not-to-make-people-work</id>
+    <id>http://www.software-quot.es/the-managers-function-is-not-to-make-people-work</id>
     <content type="html"><![CDATA[<p><span class='quote'>&ldquo;The manager&rsquo;s function is not to make people work, it is to make it possible for people to work.&rdquo;</span>
 <span class='by'>&ndash; T. DeMarco and T. Lister</span></p>
 ]]></content>
@@ -195,9 +195,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Last Project Generated a Ton of Paper and It Was Still a Disaster, So This Project Will Have to Generate Two Tons.]]></title>
-    <link href="http://software-quot.es/the-last-project-generated-a-ton-of-paper-and-it-was-still-a-disaster/"/>
+    <link href="http://www.software-quot.es/the-last-project-generated-a-ton-of-paper-and-it-was-still-a-disaster/"/>
     <updated>2014-01-11T00:00:00+03:30</updated>
-    <id>http://software-quot.es/the-last-project-generated-a-ton-of-paper-and-it-was-still-a-disaster</id>
+    <id>http://www.software-quot.es/the-last-project-generated-a-ton-of-paper-and-it-was-still-a-disaster</id>
     <content type="html"><![CDATA[<p><span class='quote'>&ldquo;The last project generated a ton of paper and it was still a disaster, so this project will have to generate two tons.&rdquo;</span>
 <span class='by'>&ndash; T. DeMarco and T. Lister</span></p>
 ]]></content>
@@ -205,9 +205,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Fastest Algorithm Can Frequently Be Replaced by One That Is Almost as Fast and Much Easier to Understand.]]></title>
-    <link href="http://software-quot.es/the-fastest-algorithm-can-be-replaced-by-one-that-is-much-easier-to-understand/"/>
+    <link href="http://www.software-quot.es/the-fastest-algorithm-can-be-replaced-by-one-that-is-much-easier-to-understand/"/>
     <updated>2014-01-11T00:00:00+03:30</updated>
-    <id>http://software-quot.es/the-fastest-algorithm-can-be-replaced-by-one-that-is-much-easier-to-understand</id>
+    <id>http://www.software-quot.es/the-fastest-algorithm-can-be-replaced-by-one-that-is-much-easier-to-understand</id>
     <content type="html"><![CDATA[<p><span class='quote'>&ldquo;The fastest algorithm can frequently be replaced by one that is almost as fast and much easier to understand.&rdquo;</span>
 <span class='by'>&ndash; D. Jones</span></p>
 ]]></content>

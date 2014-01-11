@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Misc | Software Quotes]]></title>
+  <link href="http://www.software-quot.es/blog/categories/misc/atom.xml" rel="self"/>
+  <link href="http://www.software-quot.es/"/>
+  <updated>2014-01-11T15:35:20+03:30</updated>
+  <id>http://www.software-quot.es/</id>
+  <author>
+    <name><![CDATA[Mehdi Khalili]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[There Are Thousands of Ways to Mess Up or Damage a Software Projects, and Only a Few Ways to Do Them Well.]]></title>
+    <link href="http://www.software-quot.es/there-are-thousands-of-ways-to-mess-up-or-damage-a-software-projects/"/>
+    <updated>2014-01-11T00:00:00+03:30</updated>
+    <id>http://www.software-quot.es/there-are-thousands-of-ways-to-mess-up-or-damage-a-software-projects</id>
+    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;There are thousands of ways to mess up or damage a software projects, and only a few ways to do them well.&rdquo;</span>
+<span class='by'>&ndash; Capers Jones</span></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Trick Is to Fix the Problem You Have, Rather Than the Problem You Want.]]></title>
+    <link href="http://www.software-quot.es/the-trick-is-to-fix-the-problem-you-have-rather-than-the-problem-you-want/"/>
+    <updated>2014-01-11T00:00:00+03:30</updated>
+    <id>http://www.software-quot.es/the-trick-is-to-fix-the-problem-you-have-rather-than-the-problem-you-want</id>
+    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;The trick is to fix the problem you have, rather than the problem you want.&rdquo;</span>
+<span class='by'>— Bram Cohen</span></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Software Is Like Sex: It's Better When It's Free.]]></title>
+    <link href="http://www.software-quot.es/software-is-like-sex-its-better-when-its-free/"/>
+    <updated>2014-01-11T00:00:00+03:30</updated>
+    <id>http://www.software-quot.es/software-is-like-sex-its-better-when-its-free</id>
+    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;Software is like sex: it&rsquo;s better when it&rsquo;s free.&rdquo;</span>
+<span class='by'>&ndash; Linus Thorvalds</span></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Measuring Programming Progress by Lines of Code Is Like Measuring Aircraft Building Progress by Weight.]]></title>
+    <link href="http://www.software-quot.es/measuring-programming-progress-by-lines-of-code/"/>
+    <updated>2014-01-11T00:00:00+03:30</updated>
+    <id>http://www.software-quot.es/measuring-programming-progress-by-lines-of-code</id>
+    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;Measuring programming progress by lines of code is like measuring aircraft building progress by weight.&rdquo;</span>
+<span class='by'>&ndash; Bill Gates</span></p>
+]]></content>
+  </entry>
+  
+</feed>

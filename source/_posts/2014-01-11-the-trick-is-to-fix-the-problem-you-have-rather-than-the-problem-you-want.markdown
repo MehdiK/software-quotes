@@ -3,7 +3,7 @@ layout: post
 title: "The trick is to fix the problem you have, rather than the problem you want."
 date: 2014-01-11
 comments: false
-categories: 
+categories: ["Misc"]
 ---
 
 <span class='quote'>"The trick is to fix the problem you have, rather than the problem you want."</span>

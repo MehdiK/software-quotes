@@ -3,7 +3,7 @@ layout: post
 title: "No matter what the problem is, it's always a people problem."
 date: 2014-01-11
 comments: false
-categories: 
+categories: ["People"]
 ---
 
 <span class='quote'>"No matter what the problem is, it's always a people problem."</span>
