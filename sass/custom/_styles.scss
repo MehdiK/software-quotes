@@ -1,5 +1,20 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+body>header {
+	padding-top:.5em;
+	padding-bottom:.5em;
+}
+
+article header {
+	margin-bottom:1em;
+	padding-bottom:0;
+}
+
+article>footer {
+	padding-bottom:0;
+	margin-top:0;
+}
+
 span.quote {
 	font-size: 3em;
 	line-height: 1.5em;
