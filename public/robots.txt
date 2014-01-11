@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://MehdiK.github.io/software-quotes/sitemap.xml 
+Sitemap: http://software-quot.es/sitemap.xml 
