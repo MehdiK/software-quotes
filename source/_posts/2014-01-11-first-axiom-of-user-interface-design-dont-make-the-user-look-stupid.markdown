@@ -3,7 +3,7 @@ layout: post
 title: "First axiom of user interface design: Don't make the user look stupid."
 date: 2014-01-11
 comments: false
-categories: 
+categories: ["User Experience"]
 ---
 
 <span class='quote'>"First axiom of user interface design: Don't make the user look stupid."</span>

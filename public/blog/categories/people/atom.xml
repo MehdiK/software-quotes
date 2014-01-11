@@ -4,7 +4,7 @@
   <title><![CDATA[Category: People | Software Quotes]]></title>
   <link href="http://www.software-quot.es/blog/categories/people/atom.xml" rel="self"/>
   <link href="http://www.software-quot.es/"/>
-  <updated>2014-01-11T15:35:20+03:30</updated>
+  <updated>2014-01-11T17:40:20+03:30</updated>
   <id>http://www.software-quot.es/</id>
   <author>
     <name><![CDATA[Mehdi Khalili]]></name>
@@ -30,6 +30,16 @@
     <id>http://www.software-quot.es/no-matter-what-the-problem-is-its-always-a-people-problem</id>
     <content type="html"><![CDATA[<p><span class='quote'>&ldquo;No matter what the problem is, it&rsquo;s always a people problem.&rdquo;</span>
 <span class='by'>&ndash; Gerald M. Weinberg</span></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Everything Really Interesting That Happens in Software Projects Eventually Comes Down to People.]]></title>
+    <link href="http://www.software-quot.es/everything-interesting-that-happens-in-software-eventually-comes-down-to-people/"/>
+    <updated>2014-01-11T00:00:00+03:30</updated>
+    <id>http://www.software-quot.es/everything-interesting-that-happens-in-software-eventually-comes-down-to-people</id>
+    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;Everything really interesting that happens in software projects eventually comes down to people.&rdquo;</span>
+<span class='by'>&ndash; James Bach</span></p>
 ]]></content>
   </entry>
   

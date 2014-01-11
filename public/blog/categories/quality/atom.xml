@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Quality | Software Quotes]]></title>
   <link href="http://www.software-quot.es/blog/categories/quality/atom.xml" rel="self"/>
   <link href="http://www.software-quot.es/"/>
-  <updated>2014-01-11T15:35:20+03:30</updated>
+  <updated>2014-01-11T17:40:20+03:30</updated>
   <id>http://www.software-quot.es/</id>
   <author>
     <name><![CDATA[Mehdi Khalili]]></name>
@@ -20,16 +20,6 @@
     <id>http://www.software-quot.es/this-is-where-programming-ends-and-the-real-detective-work-begins</id>
     <content type="html"><![CDATA[<p><span class='quote'>&ldquo;This is where programming ends, and the real detective work begins.&rdquo;</span>
 <span class='by'>&ndash; Phillip Winter</span></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[There Is Absolutely No Reason to Make Computers as Stupid as People Are.]]></title>
-    <link href="http://www.software-quot.es/there-is-absolutely-no-reason-to-make-computers-as-stupid-as-people-are/"/>
-    <updated>2014-01-11T00:00:00+03:30</updated>
-    <id>http://www.software-quot.es/there-is-absolutely-no-reason-to-make-computers-as-stupid-as-people-are</id>
-    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;There is absolutely no reason to make computers as stupid as people are.&rdquo;</span>
-<span class='by'>&ndash; Nigel Jacob</span></p>
 ]]></content>
   </entry>
   
@@ -60,6 +50,16 @@
     <id>http://www.software-quot.es/pasting-code-from-the-internet-into-production-is-like-chewing-gum-found-in-the-street</id>
     <content type="html"><![CDATA[<p><span class='quote'>&ldquo;Pasting code from the internet into production code is like chewing gum found in the street.&rdquo;</span>
 <span class='by'>&ndash; Mike Johnson</span></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[One Man's Crappy Software Is Another Man's Full Time Job.]]></title>
+    <link href="http://www.software-quot.es/one-mans-crappy-software-is-another-mans-full-time-job/"/>
+    <updated>2014-01-11T00:00:00+03:30</updated>
+    <id>http://www.software-quot.es/one-mans-crappy-software-is-another-mans-full-time-job</id>
+    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;One man&rsquo;s crappy software is another man&rsquo;s full time job.&rdquo;</span>
+<span class='by'>&ndash; Jessica Gaston</span></p>
 ]]></content>
   </entry>
   

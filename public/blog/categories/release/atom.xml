@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Release | Software Quotes]]></title>
   <link href="http://www.software-quot.es/blog/categories/release/atom.xml" rel="self"/>
   <link href="http://www.software-quot.es/"/>
-  <updated>2014-01-11T15:35:20+03:30</updated>
+  <updated>2014-01-11T17:40:20+03:30</updated>
   <id>http://www.software-quot.es/</id>
   <author>
     <name><![CDATA[Mehdi Khalili]]></name>
@@ -20,6 +20,16 @@
     <id>http://www.software-quot.es/no-matter-how-long-you-wait-you-will-be-embarrassed-by-the-first-version-of-your-product</id>
     <content type="html"><![CDATA[<p><span class='quote'>&ldquo;No matter how long you wait, you will be embarrassed by the first version of your product.&rdquo;</span>
 <span class='by'>&ndash; Eric Ries</span></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[If You're Not Embarrassed by Your First Product Release, You've Released Too Late.]]></title>
+    <link href="http://www.software-quot.es/if-youre-not-embarrassed-by-your-first-product-release-youve-released-too-late/"/>
+    <updated>2014-01-11T00:00:00+03:30</updated>
+    <id>http://www.software-quot.es/if-youre-not-embarrassed-by-your-first-product-release-youve-released-too-late</id>
+    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;If you&rsquo;re not embarrassed by your first product release, you&rsquo;ve released too late.&rdquo;</span>
+<span class='by'>&ndash; Reid Hoffman</span></p>
 ]]></content>
   </entry>
   

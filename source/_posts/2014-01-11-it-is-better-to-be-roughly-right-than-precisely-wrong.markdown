@@ -3,7 +3,7 @@ layout: post
 title: "It is better to be roughly right than precisely wrong"
 date: 2014-01-11
 comments: false
-categories: 
+categories: ["Estimation","Agile"]
 ---
 
 <span class='quote'>"It is better to be roughly right than precisely wrong"</span>

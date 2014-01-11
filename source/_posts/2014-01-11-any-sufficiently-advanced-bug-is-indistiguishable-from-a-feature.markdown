@@ -3,7 +3,7 @@ layout: post
 title: "Any sufficiently advanced bug is indistiguishable from a feature."
 date: 2014-01-11
 comments: false
-categories: 
+categories: ["Bugs"]
 ---
 
 <span class='quote'>"Any sufficiently advanced bug is indistiguishable from a feature."</span>

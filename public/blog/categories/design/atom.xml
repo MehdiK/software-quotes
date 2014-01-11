@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Design | Software Quotes]]></title>
   <link href="http://www.software-quot.es/blog/categories/design/atom.xml" rel="self"/>
   <link href="http://www.software-quot.es/"/>
-  <updated>2014-01-11T15:35:20+03:30</updated>
+  <updated>2014-01-11T17:40:20+03:30</updated>
   <id>http://www.software-quot.es/</id>
   <author>
     <name><![CDATA[Mehdi Khalili]]></name>
@@ -40,6 +40,26 @@
     <id>http://www.software-quot.es/perfection-is-reached-not-when-there-is-no-longer-anything-to-add</id>
     <content type="html"><![CDATA[<p><span class='quote'>&ldquo;Perfection is reached, not when there is no longer anything to add, but when there is no longer anything to take away.&rdquo;</span>
 <span class='by'>&ndash; Antoine de Saint-Exupéry</span></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[If You're Afraid to Change Something It Is Clearly Poorly Designed.]]></title>
+    <link href="http://www.software-quot.es/if-youre-afraid-to-change-something-it-is-clearly-poorly-designed/"/>
+    <updated>2014-01-11T00:00:00+03:30</updated>
+    <id>http://www.software-quot.es/if-youre-afraid-to-change-something-it-is-clearly-poorly-designed</id>
+    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;If you&rsquo;re afraid to change something it is clearly poorly designed.&rdquo;</span>
+<span class='by'>&ndash; Martin Fowler</span></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Get Your Data Structures Correct First, and the Rest of the Program Will Write Itself.]]></title>
+    <link href="http://www.software-quot.es/get-your-data-structures-correct-first-and-the-rest-of-the-program-will-write-itself/"/>
+    <updated>2014-01-11T00:00:00+03:30</updated>
+    <id>http://www.software-quot.es/get-your-data-structures-correct-first-and-the-rest-of-the-program-will-write-itself</id>
+    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;Get your data structures correct first, and the rest of the program will write itself.&rdquo;</span>
+<span class='by'>&ndash; D. Jones</span></p>
 ]]></content>
   </entry>
   

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Man Month | Software Quotes]]></title>
   <link href="http://www.software-quot.es/blog/categories/man-month/atom.xml" rel="self"/>
   <link href="http://www.software-quot.es/"/>
-  <updated>2014-01-11T15:35:20+03:30</updated>
+  <updated>2014-01-11T17:40:20+03:30</updated>
   <id>http://www.software-quot.es/</id>
   <author>
     <name><![CDATA[Mehdi Khalili]]></name>
@@ -20,6 +20,16 @@
     <id>http://www.software-quot.es/with-nine-women-pregnant-can-you-get-a-baby-a-month</id>
     <content type="html"><![CDATA[<p><span class='quote'>&ldquo;Crash programs fail because they are based on the theory that, with nine women pregnant, you can get a baby a month.&rdquo;</span>
 <span class='by'>&ndash; Wernher von Braun</span></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Adding Manpower to a Late Software Project Makes It Later.]]></title>
+    <link href="http://www.software-quot.es/adding-manpower-to-a-late-software-project-makes-it-later/"/>
+    <updated>2014-01-11T00:00:00+03:30</updated>
+    <id>http://www.software-quot.es/adding-manpower-to-a-late-software-project-makes-it-later</id>
+    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;Adding manpower to a late software project makes it later.&rdquo;</span>
+<span class='by'>&ndash; Frederick P. Brooks &ndash; Brooks' Law</span></p>
 ]]></content>
   </entry>
   

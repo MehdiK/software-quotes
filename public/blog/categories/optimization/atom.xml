@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Optimization | Software Quotes]]></title>
   <link href="http://www.software-quot.es/blog/categories/optimization/atom.xml" rel="self"/>
   <link href="http://www.software-quot.es/"/>
-  <updated>2014-01-11T15:35:20+03:30</updated>
+  <updated>2014-01-11T17:40:20+03:30</updated>
   <id>http://www.software-quot.es/</id>
   <author>
     <name><![CDATA[Mehdi Khalili]]></name>
@@ -24,12 +24,32 @@
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[The Fastest Algorithm Can Frequently Be Replaced by One That Is Almost as Fast and Much Easier to Understand.]]></title>
+    <link href="http://www.software-quot.es/the-fastest-algorithm-can-be-replaced-by-one-that-is-much-easier-to-understand/"/>
+    <updated>2014-01-11T00:00:00+03:30</updated>
+    <id>http://www.software-quot.es/the-fastest-algorithm-can-be-replaced-by-one-that-is-much-easier-to-understand</id>
+    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;The fastest algorithm can frequently be replaced by one that is almost as fast and much easier to understand.&rdquo;</span>
+<span class='by'>&ndash; D. Jones</span></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Premature Optimization Is the Root of All Evil in Programming.]]></title>
     <link href="http://www.software-quot.es/premature-optimization-is-the-root-of-all-evil-in-programming/"/>
     <updated>2014-01-11T00:00:00+03:30</updated>
     <id>http://www.software-quot.es/premature-optimization-is-the-root-of-all-evil-in-programming</id>
     <content type="html"><![CDATA[<p><span class='quote'>&ldquo;Premature optimization is the root of all evil in programming.&rdquo;</span>
 <span class='by'>&ndash; C. A. R. Hoare</span></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Code Should Run as Fast as Necessary, but No Faster; Something Important Is Always Traded Away to Increase Speed.]]></title>
+    <link href="http://www.software-quot.es/code-should-run-as-fast-as-necessary-but-no-faster/"/>
+    <updated>2014-01-11T00:00:00+03:30</updated>
+    <id>http://www.software-quot.es/code-should-run-as-fast-as-necessary-but-no-faster</id>
+    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;Code should run as fast as necessary, but no faster; something important is always traded away to increase speed.&rdquo;</span>
+<span class='by'>&ndash; R. Pattis</span></p>
 ]]></content>
   </entry>
   

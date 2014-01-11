@@ -3,7 +3,7 @@ layout: post
 title: "How does a project get to be a year late? One day at a time."
 date: 2014-01-11
 comments: false
-categories: 
+categories: ["Misc"]
 ---
 
 <span class='quote'>"How does a project get to be a year late? One day at a time."</span>

@@ -3,7 +3,7 @@ layout: post
 title: "If you're afraid to change something it is clearly poorly designed."
 date: 2014-01-11
 comments: false
-categories: 
+categories: ["Design"]
 ---
 
 <span class='quote'>"If you're afraid to change something it is clearly poorly designed."</span>

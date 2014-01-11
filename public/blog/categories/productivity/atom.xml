@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Productivity | Software Quotes]]></title>
   <link href="http://www.software-quot.es/blog/categories/productivity/atom.xml" rel="self"/>
   <link href="http://www.software-quot.es/"/>
-  <updated>2014-01-11T15:35:20+03:30</updated>
+  <updated>2014-01-11T17:40:20+03:30</updated>
   <id>http://www.software-quot.es/</id>
   <author>
     <name><![CDATA[Mehdi Khalili]]></name>
@@ -29,6 +29,26 @@
     <updated>2014-01-11T00:00:00+03:30</updated>
     <id>http://www.software-quot.es/nothing-more-unproductive-than-to-build-efficiently-what-should-not-have-been-built</id>
     <content type="html"><![CDATA[<p><span class='quote'>&ldquo;There is nothing more unproductive than to build something efficiently that should not have been built at all.&rdquo;</span>
+<span class='by'>&ndash; Milt Bryce</span></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[It's Better to Wait for a Productive Programmer to Become Available Than It Is to Wait for the First Available Programmer to Become Productive.]]></title>
+    <link href="http://www.software-quot.es/its-better-to-wait-for-a-productive-programmer-to-become-available/"/>
+    <updated>2014-01-11T00:00:00+03:30</updated>
+    <id>http://www.software-quot.es/its-better-to-wait-for-a-productive-programmer-to-become-available</id>
+    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;It&rsquo;s better to wait for a productive programmer to become available than it is to wait for the first available programmer to become productive.&rdquo;</span>
+<span class='by'>&ndash; Steve C McConnell</span></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Good Specifications Will Always Improve Programmer Productivity Far Better Than Any Programming Tool or Technique.]]></title>
+    <link href="http://www.software-quot.es/good-spec-always-improve-programmer-productivity-better-than-any-tool-or-technique/"/>
+    <updated>2014-01-11T00:00:00+03:30</updated>
+    <id>http://www.software-quot.es/good-spec-always-improve-programmer-productivity-better-than-any-tool-or-technique</id>
+    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;Good specifications will always improve programmer productivity far better than any programming tool or technique.&rdquo;</span>
 <span class='by'>&ndash; Milt Bryce</span></p>
 ]]></content>
   </entry>

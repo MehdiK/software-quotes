@@ -4,7 +4,7 @@
   <title><![CDATA[Category: User Experience | Software Quotes]]></title>
   <link href="http://www.software-quot.es/blog/categories/user-experience/atom.xml" rel="self"/>
   <link href="http://www.software-quot.es/"/>
-  <updated>2014-01-11T15:35:20+03:30</updated>
+  <updated>2014-01-11T17:40:20+03:30</updated>
   <id>http://www.software-quot.es/</id>
   <author>
     <name><![CDATA[Mehdi Khalili]]></name>
@@ -20,6 +20,36 @@
     <id>http://www.software-quot.es/the-difficult-part-of-requirements-gathering-is-not-recording-what-the-users-want</id>
     <content type="html"><![CDATA[<p><span class='quote'>&ldquo;The most difficult part of requirements gathering is not the act of recording what the users want; it is the exploratory, developmental activity of helping users figure out what they want.&rdquo;</span>
 <span class='by'>&ndash; Steve C McConnell</span></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[GUI Is Always Intuitive to Those Who Design It.]]></title>
+    <link href="http://www.software-quot.es/gui-is-always-intuitive-to-those-who-design-it/"/>
+    <updated>2014-01-11T00:00:00+03:30</updated>
+    <id>http://www.software-quot.es/gui-is-always-intuitive-to-those-who-design-it</id>
+    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;GUI is always intuitive to those who design it.&rdquo;</span>
+<span class='by'>&ndash; Maya Elhalal</span></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[First Axiom of User Interface Design: Don't Make the User Look Stupid.]]></title>
+    <link href="http://www.software-quot.es/first-axiom-of-user-interface-design-dont-make-the-user-look-stupid/"/>
+    <updated>2014-01-11T00:00:00+03:30</updated>
+    <id>http://www.software-quot.es/first-axiom-of-user-interface-design-dont-make-the-user-look-stupid</id>
+    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;First axiom of user interface design: Don&rsquo;t make the user look stupid.&rdquo;</span>
+<span class='by'>&ndash; Alan Cooper, About Face</span></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[A Bad Website Is Like a Grumpy Salesperson.]]></title>
+    <link href="http://www.software-quot.es/a-bad-website-is-like-a-grumpy-salesperson/"/>
+    <updated>2014-01-11T00:00:00+03:30</updated>
+    <id>http://www.software-quot.es/a-bad-website-is-like-a-grumpy-salesperson</id>
+    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;A bad website is like a grumpy salesperson.&rdquo;</span>
+<span class='by'>&ndash; Jakob Nielsen</span></p>
 ]]></content>
   </entry>
   

@@ -3,7 +3,7 @@ layout: post
 title: "Fast, fat computers breed slow, lazy programmers."
 date: 2014-01-11
 comments: false
-categories: 
+categories: ["Programmers"]
 ---
 
 <span class='quote'>"Fast, fat computers breed slow, lazy programmers."</span>

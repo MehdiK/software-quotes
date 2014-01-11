@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Testing | Software Quotes]]></title>
   <link href="http://www.software-quot.es/blog/categories/testing/atom.xml" rel="self"/>
   <link href="http://www.software-quot.es/"/>
-  <updated>2014-01-11T15:35:20+03:30</updated>
+  <updated>2014-01-11T17:40:20+03:30</updated>
   <id>http://www.software-quot.es/</id>
   <author>
     <name><![CDATA[Mehdi Khalili]]></name>
@@ -20,6 +20,16 @@
     <id>http://www.software-quot.es/optimism-is-an-occupational-hazard-of-programming-feedback-is-the-treatment</id>
     <content type="html"><![CDATA[<p><span class='quote'>&ldquo;Optimism is an occupational hazard of programming; feedback is the treatment.&rdquo;</span>
 <span class='by'>&ndash; Kent Beck</span></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[A Test That Reveals a Bug Has Succeeded, Not Failed.]]></title>
+    <link href="http://www.software-quot.es/a-test-that-reveals-a-bug-has-succeeded-not-failed/"/>
+    <updated>2014-01-11T00:00:00+03:30</updated>
+    <id>http://www.software-quot.es/a-test-that-reveals-a-bug-has-succeeded-not-failed</id>
+    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;A test that reveals a bug has succeeded, not failed.&rdquo;</span>
+<span class='by'>&ndash; Boris Beizer</span></p>
 ]]></content>
   </entry>
   

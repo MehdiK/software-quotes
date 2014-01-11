@@ -3,7 +3,7 @@ layout: post
 title: "If you can't write it down in English, you can't code it."
 date: 2014-01-11
 comments: false
-categories: 
+categories: ["Misc"]
 ---
 
 <span class='quote'>"If you can't write it down in English, you can't code it."</span>

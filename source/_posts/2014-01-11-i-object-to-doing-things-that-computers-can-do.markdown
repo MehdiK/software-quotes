@@ -3,7 +3,7 @@ layout: post
 title: "I object to doing things that computers can do."
 date: 2014-01-11
 comments: false
-categories: 
+categories: ["Programmers"]
 ---
 
 <span class='quote'>"I object to doing things that computers can do."</span>
