@@ -1,3 +1,3 @@
-This is the source code behind [software-quot.es](http://www.software-quot.es) website powered by [Octopress](http://octopress.org).
+This is the source code behind [software-quot.es](http://software-quot.es).
 
-To learn more about Software Quotes website please refer to [the about page](http://www.software-quot.es/about/).
+To learn more about Software Quotes website please refer to [the about page](http://software-quot.es/about/).
