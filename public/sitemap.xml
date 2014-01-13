@@ -29,6 +29,12 @@
         <lastmod>2014-01-12T01:28:54+03:30</lastmod>
     </url>
     <url>
+        <loc>
+            http://www.software-quot.es/a-task-always-takes-longer-than-you-expect-even-when-you-take-into-account-Hofstadter-Law/
+        </loc>
+        <lastmod>2014-01-13T23:52:02+03:30</lastmod>
+    </url>
+    <url>
         <loc>http://www.software-quot.es/a-test-that-reveals-a-bug-has-succeeded-not-failed/</loc>
         <lastmod>2014-01-12T01:28:54+03:30</lastmod>
     </url>
@@ -359,12 +365,6 @@
         <lastmod>2014-01-12T01:28:54+03:30</lastmod>
     </url>
     <url>
-        <loc>
-            http://www.software-quot.es/software-development-takes-twice-as-long-as-anticipated/
-        </loc>
-        <lastmod>2014-01-13T14:26:55+03:30</lastmod>
-    </url>
-    <url>
         <loc>http://www.software-quot.es/software-is-like-sex-its-better-when-its-free/</loc>
         <lastmod>2014-01-12T01:28:54+03:30</lastmod>
     </url>
@@ -492,7 +492,7 @@
         <loc>
             http://www.software-quot.es/work-expands-so-as-to-fill-the-time-available-for-its-completion/
         </loc>
-        <lastmod>2014-01-12T01:28:54+03:30</lastmod>
+        <lastmod>2014-01-13T20:54:23+03:30</lastmod>
     </url>
     <url>
         <loc>
@@ -508,15 +508,15 @@
     </url>
     <url>
         <loc>
-            http://www.software-quot.es/There-is-no-end-to-what-can-be-accomplished-if-you-dont-care-who-gets-the-credit/
-        </loc>
-        <lastmod>2014-01-13T14:42:52+03:30</lastmod>
-    </url>
-    <url>
-        <loc>
             http://www.software-quot.es/any-simple-problem-can-be-made-insoluble-if-enough-meetings-are-held/
         </loc>
         <lastmod>2014-01-13T13:11:52+03:30</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.software-quot.es/there-is-no-end-to-what-can-be-accomplished-if-you-dont-care-who-gets-the-credit/
+        </loc>
+        <lastmod>2014-01-13T14:42:52+03:30</lastmod>
     </url>
     <url>
         <loc>http://www.software-quot.es/about/</loc>
@@ -524,7 +524,7 @@
     </url>
     <url>
         <loc>http://www.software-quot.es/</loc>
-        <lastmod>2014-01-13T14:42:52+03:30</lastmod>
+        <lastmod>2014-01-13T23:52:02+03:30</lastmod>
     </url>
     <url>
         <loc>http://www.software-quot.es/robots.txt</loc>
