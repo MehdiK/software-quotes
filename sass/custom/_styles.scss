@@ -22,6 +22,7 @@ article>footer {
 span.quote {
 	font-size: .8em;	
 	font-weight: normal;
+	font-style: italic;
 }
 
 span.by {
@@ -37,6 +38,9 @@ span.by {
 
 .entry-content span.by {
 	font-size: 2em;	
+	display: block;
+	margin-top: 1em;
+	margin-left: 2em;
 }
 
 article header p {

@@ -4,7 +4,7 @@
   <title><![CDATA[Software Quotes]]></title>
   <link href="http://www.software-quot.es/atom.xml" rel="self"/>
   <link href="http://www.software-quot.es/"/>
-  <updated>2014-01-14T01:57:37+03:30</updated>
+  <updated>2014-01-14T02:21:18+03:30</updated>
   <id>http://www.software-quot.es/</id>
   <author>
     <name><![CDATA[Mehdi Khalili]]></name>
@@ -34,22 +34,22 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[There Is No End to What Can Be Accomplished if You Don’t Care Who Gets the Credit.]]></title>
-    <link href="http://www.software-quot.es/there-is-no-end-to-what-can-be-accomplished-if-you-dont-care-who-gets-the-credit/"/>
-    <updated>2014-01-13T00:00:00+03:30</updated>
-    <id>http://www.software-quot.es/there-is-no-end-to-what-can-be-accomplished-if-you-dont-care-who-gets-the-credit</id>
-    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;There is no end to what can be accomplished if you don’t care who gets the credit.&rdquo;</span>
-<span class='by'>&ndash; Art Rennison</span></p>
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[A Bad Website Is Like a Grumpy Salesperson.]]></title>
     <link href="http://www.software-quot.es/any-simple-problem-can-be-made-insoluble-if-enough-meetings-are-held/"/>
     <updated>2014-01-13T00:00:00+03:30</updated>
     <id>http://www.software-quot.es/any-simple-problem-can-be-made-insoluble-if-enough-meetings-are-held</id>
     <content type="html"><![CDATA[<p><span class='quote'>&ldquo;Any simple problem can be made insoluble if enough meetings are held to discuss it.&rdquo;</span>
 <span class='by'>&ndash; Mitchell&rsquo;s Law of Committees</span></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[There Is No End to What Can Be Accomplished if You Don’t Care Who Gets the Credit.]]></title>
+    <link href="http://www.software-quot.es/There-is-no-end-to-what-can-be-accomplished-if-you-dont-care-who-gets-the-credit/"/>
+    <updated>2014-01-13T00:00:00+03:30</updated>
+    <id>http://www.software-quot.es/There-is-no-end-to-what-can-be-accomplished-if-you-dont-care-who-gets-the-credit</id>
+    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;There is no end to what can be accomplished if you don’t care who gets the credit.&rdquo;</span>
+<span class='by'>&ndash; Art Rennison</span></p>
 ]]></content>
   </entry>
   
