@@ -4,7 +4,7 @@
   <title><![CDATA[Software Quotes]]></title>
   <link href="http://www.software-quot.es/atom.xml" rel="self"/>
   <link href="http://www.software-quot.es/"/>
-  <updated>2014-01-12T03:05:59+03:30</updated>
+  <updated>2014-01-13T13:11:53+03:30</updated>
   <id>http://www.software-quot.es/</id>
   <author>
     <name><![CDATA[Mehdi Khalili]]></name>
@@ -12,6 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[A Bad Website Is Like a Grumpy Salesperson.]]></title>
+    <link href="http://www.software-quot.es/any-simple-problem-can-be-made-insoluble-if-enough-meetings-are-held/"/>
+    <updated>2014-01-13T00:00:00+03:30</updated>
+    <id>http://www.software-quot.es/any-simple-problem-can-be-made-insoluble-if-enough-meetings-are-held</id>
+    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;Any simple problem can be made insoluble if enough meetings are held to discuss it.&rdquo;</span>
+<span class='by'>&ndash; Mitchell&rsquo;s Law of Committees</span></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[You're Bound to Be Unhappy if You Optimize Everything.]]></title>
@@ -200,16 +210,6 @@
     <id>http://www.software-quot.es/the-last-project-generated-a-ton-of-paper-and-it-was-still-a-disaster</id>
     <content type="html"><![CDATA[<p><span class='quote'>&ldquo;The last project generated a ton of paper and it was still a disaster, so this project will have to generate two tons.&rdquo;</span>
 <span class='by'>&ndash; T. DeMarco and T. Lister</span></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Fastest Algorithm Can Frequently Be Replaced by One That Is Almost as Fast and Much Easier to Understand.]]></title>
-    <link href="http://www.software-quot.es/the-fastest-algorithm-can-be-replaced-by-one-that-is-much-easier-to-understand/"/>
-    <updated>2014-01-11T00:00:00+03:30</updated>
-    <id>http://www.software-quot.es/the-fastest-algorithm-can-be-replaced-by-one-that-is-much-easier-to-understand</id>
-    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;The fastest algorithm can frequently be replaced by one that is almost as fast and much easier to understand.&rdquo;</span>
-<span class='by'>&ndash; D. Jones</span></p>
 ]]></content>
   </entry>
   
