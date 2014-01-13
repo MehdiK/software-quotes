@@ -4,7 +4,7 @@
   <title><![CDATA[Software Quotes]]></title>
   <link href="http://www.software-quot.es/atom.xml" rel="self"/>
   <link href="http://www.software-quot.es/"/>
-  <updated>2014-01-14T00:16:33+03:30</updated>
+  <updated>2014-01-14T01:28:31+03:30</updated>
   <id>http://www.software-quot.es/</id>
   <author>
     <name><![CDATA[Mehdi Khalili]]></name>
@@ -12,6 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Given Enough Eyeballs, All Bugs Are Shallow.]]></title>
+    <link href="http://www.software-quot.es/given-enough-eyeballs-all-bugs-are-shallow/"/>
+    <updated>2014-01-14T00:00:00+03:30</updated>
+    <id>http://www.software-quot.es/given-enough-eyeballs-all-bugs-are-shallow</id>
+    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;Given enough eyeballs, all bugs are shallow.&rdquo;</span>
+<span class='by'>&ndash; Linus Torvalds &ndash; Linus’s Law</span></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[There Is No End to What Can Be Accomplished if You Don’t Care Who Gets the Credit.]]></title>
@@ -200,16 +210,6 @@
     <id>http://www.software-quot.es/the-most-important-single-aspect-of-software-development</id>
     <content type="html"><![CDATA[<p><span class='quote'>&ldquo;The most important single aspect of software development is to be clear about what you are trying to build.&rdquo;</span>
 <span class='by'>&ndash; Bjarne Stroustrup</span></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Manager's Function Is Not to Make People Work, It Is to Make It Possible for People to Work.]]></title>
-    <link href="http://www.software-quot.es/the-managers-function-is-not-to-make-people-work/"/>
-    <updated>2014-01-11T00:00:00+03:30</updated>
-    <id>http://www.software-quot.es/the-managers-function-is-not-to-make-people-work</id>
-    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;The manager&rsquo;s function is not to make people work, it is to make it possible for people to work.&rdquo;</span>
-<span class='by'>&ndash; T. DeMarco and T. Lister</span></p>
 ]]></content>
   </entry>
   
