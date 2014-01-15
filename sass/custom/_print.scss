@@ -1,0 +1,21 @@
+@media only print {
+  	body > div {
+  		border: none;
+  	}
+
+  	body > div > div {
+  		border: none;
+  	}
+
+  	aside.sidebar {
+  		border: none;
+  	}
+
+	header, footer, nav { 
+		display: none; 
+	} 
+
+	#content {
+		padding-top: 5em;
+	}
+}

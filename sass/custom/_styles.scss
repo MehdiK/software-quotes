@@ -10,6 +10,10 @@ article header {
 	padding-bottom:0;
 }
 
+article header p {
+	color: #222;
+}
+
 article a {
 	white-space: normal;
 }
@@ -41,10 +45,7 @@ span.by {
 	display: block;
 	margin-top: 1em;
 	margin-left: 2em;
-}
-
-article header p {
-	color: #222;
+	line-height: 1em;
 }
 
 #blog-archives.index-page h1 {
@@ -55,3 +56,4 @@ article header p {
 	margin-left: 0;
 	padding-left: 0;
 }
+
