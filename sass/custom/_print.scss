@@ -15,7 +15,15 @@
 		display: none; 
 	} 
 
-	#content {
+	.entry-content {
 		padding-top: 5em;
+	}
+
+	.print-footer {
+		display: block;
+		float: right;
+		margin-top: 1.5em;
+		font-size: 80%;
+		border-top: 1px solid black;
 	}
 }
