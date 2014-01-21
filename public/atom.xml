@@ -4,7 +4,7 @@
   <title><![CDATA[Software Quotes]]></title>
   <link href="http://www.software-quot.es/atom.xml" rel="self"/>
   <link href="http://www.software-quot.es/"/>
-  <updated>2014-01-15T18:03:49+03:30</updated>
+  <updated>2014-01-21T15:40:22+03:30</updated>
   <id>http://www.software-quot.es/</id>
   <author>
     <name><![CDATA[Mehdi Khalili]]></name>
@@ -12,6 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Being Able to Write a Bloom Filter in Erlang, or Write Multi-threaded C in Your Sleep Is Insufficient. None of That Matters if No One Wants to Work With You.]]></title>
+    <link href="http://www.software-quot.es/it-does-not-matter-if-no-one-wants-to-work-with-you/"/>
+    <updated>2014-01-21T00:00:00+03:30</updated>
+    <id>http://www.software-quot.es/it-does-not-matter-if-no-one-wants-to-work-with-you</id>
+    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;Being able to write a Bloom Filter in Erlang, or write multi-threaded C in your sleep is insufficient. None of that matters if no one wants to work with you.&rdquo;</span>
+<span class='by'>&ndash; John Allspaw</span></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The First 90 Percent of the Code Accounts for the First 90 Percent of the Development Time. The Remaining 10 Percent of the Code Accounts for the Other 90 Percent of the Development Time.]]></title>
@@ -200,16 +210,6 @@
     <id>http://www.software-quot.es/the-purpose-of-software-engineering-is-to-control-complexity-not-to-create-it</id>
     <content type="html"><![CDATA[<p><span class='quote'>&ldquo;The purpose of software engineering is to control complexity, not to create it.&rdquo;</span>
 <span class='by'>&ndash; Pamela Zave</span></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Most Important Skill of a Manager Is to Know When to Kill Your Own Project.]]></title>
-    <link href="http://www.software-quot.es/the-most-important-skill-of-a-manager-is-to-know-when-to-kill-your-own-project/"/>
-    <updated>2014-01-11T00:00:00+03:30</updated>
-    <id>http://www.software-quot.es/the-most-important-skill-of-a-manager-is-to-know-when-to-kill-your-own-project</id>
-    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;The most important skill of a manager is to know when to kill your own project.&rdquo;</span>
-<span class='by'>&ndash; Keith Rowe</span></p>
 ]]></content>
   </entry>
   
