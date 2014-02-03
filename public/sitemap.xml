@@ -540,9 +540,15 @@
     </url>
     <url>
         <loc>
+            http://www.software-quot.es/most-comments-in-code-are-in-fact-a-pernicious-form-of-code-duplication/
+        </loc>
+        <lastmod>2014-02-03T17:15:50+03:30</lastmod>
+    </url>
+    <url>
+        <loc>
             http://www.software-quot.es/the-only-best-practice-you-should-be-using-all-the-time-is-use-your-brain/
         </loc>
-        <lastmod>2014-02-03T17:07:25+03:30</lastmod>
+        <lastmod>2014-02-03T17:15:44+03:30</lastmod>
     </url>
     <url>
         <loc>http://www.software-quot.es/about/</loc>
@@ -550,7 +556,7 @@
     </url>
     <url>
         <loc>http://www.software-quot.es/</loc>
-        <lastmod>2014-02-03T17:07:25+03:30</lastmod>
+        <lastmod>2014-02-03T17:15:50+03:30</lastmod>
     </url>
     <url>
         <loc>http://www.software-quot.es/robots.txt</loc>

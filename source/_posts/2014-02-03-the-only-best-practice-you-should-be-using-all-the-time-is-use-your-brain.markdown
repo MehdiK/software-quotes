@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The only best practice you should be using all the time is Use Your Brain"
-date: 2014-01-27
+date: 2014-02-03
 comments: false
 categories: ["Best Practices","Programmers"]
 ---
