@@ -4,7 +4,7 @@
   <title><![CDATA[Software Quotes]]></title>
   <link href="http://www.software-quot.es/atom.xml" rel="self"/>
   <link href="http://www.software-quot.es/"/>
-  <updated>2014-01-31T11:08:24+03:30</updated>
+  <updated>2014-02-03T17:08:06+03:30</updated>
   <id>http://www.software-quot.es/</id>
   <author>
     <name><![CDATA[Mehdi Khalili]]></name>
@@ -12,6 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Only Best Practice You Should Be Using All the Time Is Use Your Brain]]></title>
+    <link href="http://www.software-quot.es/the-only-best-practice-you-should-be-using-all-the-time-is-use-your-brain/"/>
+    <updated>2014-01-27T00:00:00+03:30</updated>
+    <id>http://www.software-quot.es/the-only-best-practice-you-should-be-using-all-the-time-is-use-your-brain</id>
+    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;The only “best practice” you should be using all the time is Use Your Brain&rdquo;</span>
+<span class='by'>&ndash; Steven Robbins</span></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[If It Hurts, Do It More Frequently, and Bring the Pain Forward]]></title>
@@ -200,16 +210,6 @@
     <id>http://www.software-quot.es/the-trick-is-to-fix-the-problem-you-have-rather-than-the-problem-you-want</id>
     <content type="html"><![CDATA[<p><span class='quote'>&ldquo;The trick is to fix the problem you have, rather than the problem you want.&rdquo;</span>
 <span class='by'>— Bram Cohen</span></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Structure of a Software System Will Reflect the Communication Structure of the Team That Built It]]></title>
-    <link href="http://www.software-quot.es/the-structure-of-a-system-reflects-the-communication-structure-of-the-team/"/>
-    <updated>2014-01-11T00:00:00+03:30</updated>
-    <id>http://www.software-quot.es/the-structure-of-a-system-reflects-the-communication-structure-of-the-team</id>
-    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;The structure of a software system will reflect the communication structure of the team that built it&rdquo;</span>
-<span class='by'>&ndash; Melvin Conway &ndash; Conway&rsquo;s Law</span></p>
 ]]></content>
   </entry>
   
