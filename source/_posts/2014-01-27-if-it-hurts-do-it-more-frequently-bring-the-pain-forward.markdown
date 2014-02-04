@@ -6,5 +6,5 @@ comments: false
 categories: ["Continuous Integration", "Continuous Delivery","Agile"]
 ---
 
-<span class='quote'>"If it hurts, do it more frequently, and bring the pain forward"</span>
+<span class='quote'>"If it hurts, do it more frequently, and bring the pain forward."</span>
 <span class='by'>- Jez Humble</span>
