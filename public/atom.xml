@@ -4,7 +4,7 @@
   <title><![CDATA[Software Quotes]]></title>
   <link href="http://www.software-quot.es/atom.xml" rel="self"/>
   <link href="http://www.software-quot.es/"/>
-  <updated>2014-02-27T14:26:21+03:30</updated>
+  <updated>2014-02-27T14:31:48+03:30</updated>
   <id>http://www.software-quot.es/</id>
   <author>
     <name><![CDATA[Mehdi Khalili]]></name>
@@ -18,7 +18,7 @@
     <link href="http://www.software-quot.es/premature-optimization-is-the-root-of-evil/"/>
     <updated>2014-02-27T00:00:00+03:30</updated>
     <id>http://www.software-quot.es/premature-optimization-is-the-root-of-evil</id>
-    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;Premature optimization is the root of all evil.&rdquo;</span>
+    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%.&rdquo;</span>
 <span class='by'>&ndash; Donald Knuth</span></p>
 ]]></content>
   </entry>
