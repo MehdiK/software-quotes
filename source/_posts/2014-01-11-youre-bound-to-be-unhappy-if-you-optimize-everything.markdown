@@ -7,4 +7,4 @@ categories: ["Optimization"]
 ---
 
 <span class='quote'>"You're bound to be unhappy if you optimize everything."</span>
-<span class='by'>- Donald E. Knuth</span>
+<span class='by'>- Donald Knuth</span>

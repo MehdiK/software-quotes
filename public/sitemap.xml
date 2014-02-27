@@ -502,7 +502,7 @@
         <loc>
             http://www.software-quot.es/youre-bound-to-be-unhappy-if-you-optimize-everything/
         </loc>
-        <lastmod>2014-01-12T01:28:54+03:30</lastmod>
+        <lastmod>2014-02-27T14:26:15+03:30</lastmod>
     </url>
     <url>
         <loc>
@@ -565,12 +565,22 @@
         <lastmod>2014-02-08T07:26:04+03:30</lastmod>
     </url>
     <url>
+        <loc>
+            http://www.software-quot.es/bad-behavior-arises-when-you-abstract-people-away-from-the-consequences-of-their-actions/
+        </loc>
+        <lastmod>2014-02-27T14:17:42+03:30</lastmod>
+    </url>
+    <url>
+        <loc>http://www.software-quot.es/premature-optimization-is-the-root-of-evil/</loc>
+        <lastmod>2014-02-27T14:22:59+03:30</lastmod>
+    </url>
+    <url>
         <loc>http://www.software-quot.es/about/</loc>
         <lastmod>2014-01-12T01:28:42+03:30</lastmod>
     </url>
     <url>
         <loc>http://www.software-quot.es/</loc>
-        <lastmod>2014-02-08T07:26:04+03:30</lastmod>
+        <lastmod>2014-02-27T14:26:15+03:30</lastmod>
     </url>
     <url>
         <loc>http://www.software-quot.es/robots.txt</loc>

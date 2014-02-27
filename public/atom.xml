@@ -4,7 +4,7 @@
   <title><![CDATA[Software Quotes]]></title>
   <link href="http://www.software-quot.es/atom.xml" rel="self"/>
   <link href="http://www.software-quot.es/"/>
-  <updated>2014-02-08T07:26:35+03:30</updated>
+  <updated>2014-02-27T14:26:21+03:30</updated>
   <id>http://www.software-quot.es/</id>
   <author>
     <name><![CDATA[Mehdi Khalili]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Premature Optimization Is the Root of All Evil]]></title>
+    <link href="http://www.software-quot.es/premature-optimization-is-the-root-of-evil/"/>
+    <updated>2014-02-27T00:00:00+03:30</updated>
+    <id>http://www.software-quot.es/premature-optimization-is-the-root-of-evil</id>
+    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;Premature optimization is the root of all evil.&rdquo;</span>
+<span class='by'>&ndash; Donald Knuth</span></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Bad Behavior Arises When You Abstract People Away From the Consequences of Their Actions]]></title>
+    <link href="http://www.software-quot.es/bad-behavior-arises-when-you-abstract-people-away-from-the-consequences-of-their-actions/"/>
+    <updated>2014-02-27T00:00:00+03:30</updated>
+    <id>http://www.software-quot.es/bad-behavior-arises-when-you-abstract-people-away-from-the-consequences-of-their-actions</id>
+    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;Bad behavior arises when you abstract people away from the consequences of their actions.&rdquo;</span>
+<span class='by'>&ndash; Jez Humble</span></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[User Stories Are Just Options, Not Commitment]]></title>
@@ -129,7 +149,7 @@
     <updated>2014-01-11T00:00:00+03:30</updated>
     <id>http://www.software-quot.es/youre-bound-to-be-unhappy-if-you-optimize-everything</id>
     <content type="html"><![CDATA[<p><span class='quote'>&ldquo;You&rsquo;re bound to be unhappy if you optimize everything.&rdquo;</span>
-<span class='by'>&ndash; Donald E. Knuth</span></p>
+<span class='by'>&ndash; Donald Knuth</span></p>
 ]]></content>
   </entry>
   
@@ -190,26 +210,6 @@
     <id>http://www.software-quot.es/this-is-where-programming-ends-and-the-real-detective-work-begins</id>
     <content type="html"><![CDATA[<p><span class='quote'>&ldquo;This is where programming ends, and the real detective work begins.&rdquo;</span>
 <span class='by'>&ndash; Phillip Winter</span></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[There Is Absolutely No Reason to Make Computers as Stupid as People Are.]]></title>
-    <link href="http://www.software-quot.es/there-is-absolutely-no-reason-to-make-computers-as-stupid-as-people-are/"/>
-    <updated>2014-01-11T00:00:00+03:30</updated>
-    <id>http://www.software-quot.es/there-is-absolutely-no-reason-to-make-computers-as-stupid-as-people-are</id>
-    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;There is absolutely no reason to make computers as stupid as people are.&rdquo;</span>
-<span class='by'>&ndash; Nigel Jacob</span></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[There Are Thousands of Ways to Mess Up or Damage Software Projects, and Only a Few Ways to Do Them Well.]]></title>
-    <link href="http://www.software-quot.es/there-are-thousands-of-ways-to-mess-up-or-damage-software-projects/"/>
-    <updated>2014-01-11T00:00:00+03:30</updated>
-    <id>http://www.software-quot.es/there-are-thousands-of-ways-to-mess-up-or-damage-software-projects</id>
-    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;There are thousands of ways to mess up or damage software projects, and only a few ways to do them well.&rdquo;</span>
-<span class='by'>&ndash; Capers Jones</span></p>
 ]]></content>
   </entry>
   
