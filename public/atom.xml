@@ -4,7 +4,7 @@
   <title><![CDATA[Software Quotes]]></title>
   <link href="http://www.software-quot.es/atom.xml" rel="self"/>
   <link href="http://www.software-quot.es/"/>
-  <updated>2014-02-27T14:31:48+03:30</updated>
+  <updated>2014-03-05T23:36:35+03:30</updated>
   <id>http://www.software-quot.es/</id>
   <author>
     <name><![CDATA[Mehdi Khalili]]></name>
@@ -12,6 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Any Application That Can Be Written in JavaScript, Will Eventually Be Written in JavaScript]]></title>
+    <link href="http://www.software-quot.es/any-application-that-can-be-written-in-javascript-will-eventually-be-written-in-javascript/"/>
+    <updated>2014-03-04T00:00:00+03:30</updated>
+    <id>http://www.software-quot.es/any-application-that-can-be-written-in-javascript-will-eventually-be-written-in-javascript</id>
+    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;Any application that can be written in JavaScript, will eventually be written in JavaScript.&rdquo;</span>
+<span class='by'>&ndash; Jeff Atwood &ndash; Atwood&rsquo;s Law</span></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Premature Optimization Is the Root of All Evil]]></title>
@@ -200,16 +210,6 @@
     <id>http://www.software-quot.es/when-in-doubt-leave-it-out</id>
     <content type="html"><![CDATA[<p><span class='quote'>&ldquo;When in doubt, leave it out.&rdquo;</span>
 <span class='by'>— Joshua Bloch</span></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[This Is Where Programming Ends, and the Real Detective Work Begins.]]></title>
-    <link href="http://www.software-quot.es/this-is-where-programming-ends-and-the-real-detective-work-begins/"/>
-    <updated>2014-01-11T00:00:00+03:30</updated>
-    <id>http://www.software-quot.es/this-is-where-programming-ends-and-the-real-detective-work-begins</id>
-    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;This is where programming ends, and the real detective work begins.&rdquo;</span>
-<span class='by'>&ndash; Phillip Winter</span></p>
 ]]></content>
   </entry>
   
