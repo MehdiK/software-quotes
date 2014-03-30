@@ -4,7 +4,7 @@
   <title><![CDATA[Software Quotes]]></title>
   <link href="http://www.software-quot.es/atom.xml" rel="self"/>
   <link href="http://www.software-quot.es/"/>
-  <updated>2014-03-30T09:55:38+04:30</updated>
+  <updated>2014-03-30T09:59:34+04:30</updated>
   <id>http://www.software-quot.es/</id>
   <author>
     <name><![CDATA[Mehdi Khalili]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Any Fool Can Make Something Complicated. It Takes a Genius to Make It Simple]]></title>
-    <link href="http://www.software-quot.es/any-fool-can-make-make-something-complex/"/>
+    <link href="http://www.software-quot.es/any-fool-can-make-something-complex-it-takes-a-genius-to-make-it-simple/"/>
     <updated>2014-03-30T00:00:00+04:30</updated>
-    <id>http://www.software-quot.es/any-fool-can-make-make-something-complex</id>
+    <id>http://www.software-quot.es/any-fool-can-make-something-complex-it-takes-a-genius-to-make-it-simple</id>
     <content type="html"><![CDATA[<p><span class='quote'>&ldquo;Any fool can make something complicated. It takes a genius to make it simple.&rdquo;</span>
 <span class='by'>&ndash; Woody Guthrie</span></p>
 ]]></content>
