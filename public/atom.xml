@@ -4,7 +4,7 @@
   <title><![CDATA[Software Quotes]]></title>
   <link href="http://www.software-quot.es/atom.xml" rel="self"/>
   <link href="http://www.software-quot.es/"/>
-  <updated>2014-03-05T23:36:35+03:30</updated>
+  <updated>2014-03-30T09:55:38+04:30</updated>
   <id>http://www.software-quot.es/</id>
   <author>
     <name><![CDATA[Mehdi Khalili]]></name>
@@ -12,6 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Any Fool Can Make Something Complicated. It Takes a Genius to Make It Simple]]></title>
+    <link href="http://www.software-quot.es/any-fool-can-make-make-something-complex/"/>
+    <updated>2014-03-30T00:00:00+04:30</updated>
+    <id>http://www.software-quot.es/any-fool-can-make-make-something-complex</id>
+    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;Any fool can make something complicated. It takes a genius to make it simple.&rdquo;</span>
+<span class='by'>&ndash; Woody Guthrie</span></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Any Application That Can Be Written in JavaScript, Will Eventually Be Written in JavaScript]]></title>
@@ -200,16 +210,6 @@
     <id>http://www.software-quot.es/when-the-final-design-seems-too-simple-for-the-amount-of-work-youve-put-in</id>
     <content type="html"><![CDATA[<p><span class='quote'>&ldquo;When the final design seems too simple for the amount of work you&rsquo;ve put in, then you know you&rsquo;re done.&rdquo;</span>
 <span class='by'>&ndash; Brady Clark</span></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[When in Doubt, Leave It Out.]]></title>
-    <link href="http://www.software-quot.es/when-in-doubt-leave-it-out/"/>
-    <updated>2014-01-11T00:00:00+03:30</updated>
-    <id>http://www.software-quot.es/when-in-doubt-leave-it-out</id>
-    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;When in doubt, leave it out.&rdquo;</span>
-<span class='by'>— Joshua Bloch</span></p>
 ]]></content>
   </entry>
   
