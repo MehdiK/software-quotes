@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A bad website is like a grumpy salesperson."
+title: "Any simple problem can be made insoluble if enough meetings are held to discuss it."
 date: 2014-01-13
 comments: false
 categories: ["Laws","Meetings"]
