@@ -3,7 +3,7 @@ layout: post
 title: "A good programmer is someone who always looks both ways before crossing a one-way street."
 date: 2014-04-22
 comments: false
-categories: ["humor"]
+categories: ["Humor"]
 ---
 
 <span class='quote'>"A good programmer is someone who always looks both ways before crossing a one-way street."</span>

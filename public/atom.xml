@@ -4,7 +4,7 @@
   <title><![CDATA[Software Quotes]]></title>
   <link href="http://www.software-quot.es/atom.xml" rel="self"/>
   <link href="http://www.software-quot.es/"/>
-  <updated>2014-04-17T16:31:57+04:30</updated>
+  <updated>2014-04-22T12:21:48+04:30</updated>
   <id>http://www.software-quot.es/</id>
   <author>
     <name><![CDATA[Mehdi Khalili]]></name>
@@ -12,6 +12,147 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Any Code of Your Own That You Haven't Looked at for Six or More Months Might as Well Have Been Written by Someone Else.]]></title>
+    <link href="http://www.software-quot.es/your-code-you-have-not-looked-at-for-six-months-might-as-well-have-been-written-by-someone-else/"/>
+    <updated>2014-04-22T00:00:00+04:30</updated>
+    <id>http://www.software-quot.es/your-code-you-have-not-looked-at-for-six-months-might-as-well-have-been-written-by-someone-else</id>
+    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;Any code of your own that you haven&rsquo;t looked at for six or more months might as well have been written by someone else.&rdquo;</span>
+<span class='by'>&ndash; Unknown &ndash; Eagleson&rsquo;s Law</span></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Without Requirements or Design, Programming Is the Art of Adding Bugs to an Empty Text File.]]></title>
+    <link href="http://www.software-quot.es/without-design-programming-is-the-art-of-adding-bugs-to-a-text-file/"/>
+    <updated>2014-04-22T00:00:00+04:30</updated>
+    <id>http://www.software-quot.es/without-design-programming-is-the-art-of-adding-bugs-to-a-text-file</id>
+    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;Without requirements or design, programming is the art of adding bugs to an empty text file.&rdquo;</span>
+<span class='by'>&ndash; Louis Srygley</span></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[When Debugging, Novices Insert Corrective Code; Experts Remove Defective Code.]]></title>
+    <link href="http://www.software-quot.es/when-debugging-novices-insert-corrective-code-experts-remove-defective-code/"/>
+    <updated>2014-04-22T00:00:00+04:30</updated>
+    <id>http://www.software-quot.es/when-debugging-novices-insert-corrective-code-experts-remove-defective-code</id>
+    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;When debugging, novices insert corrective code; experts remove defective code.&rdquo;</span>
+<span class='by'>&ndash; Richard Pattis</span></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Walking on Water and Developing Software From a Specification Are Easy if Both Are Frozen.]]></title>
+    <link href="http://www.software-quot.es/walking-on-water-and-developing-software-from-a-specification-are-easy-if-both-are-frozen/"/>
+    <updated>2014-04-22T00:00:00+04:30</updated>
+    <id>http://www.software-quot.es/walking-on-water-and-developing-software-from-a-specification-are-easy-if-both-are-frozen</id>
+    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;Walking on water and developing software from a specification are easy if both are frozen.&rdquo;</span>
+<span class='by'>&ndash; Edward V. Berard</span></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[There Are Two Ways of Constructing a Software Design: One Way Is to Make It So Simple That There Are Obviously No Deficiencies, and the Other Way Is to Make It So Complicated That There Are No Obvious Deficiencies. The First Method Is Far More Difficult.]]></title>
+    <link href="http://www.software-quot.es/two-ways-of-constructing-software-simple-with-no-deficiencies-or-complex-with-no-obvious-deficiencies/"/>
+    <updated>2014-04-22T00:00:00+04:30</updated>
+    <id>http://www.software-quot.es/two-ways-of-constructing-software-simple-with-no-deficiencies-or-complex-with-no-obvious-deficiencies</id>
+    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.&rdquo;</span>
+<span class='by'>&ndash; C.A.R. Hoare</span></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[There Is Not Now, Nor Has There Ever Been, Nor Will There Ever Be, Any Programming Language in Which It Is the Least Bit Difficult to Write Bad Code.]]></title>
+    <link href="http://www.software-quot.es/there-is-no-programming-language-in-which-it-is-the-least-bit-difficult-to-write-bad-code/"/>
+    <updated>2014-04-22T00:00:00+04:30</updated>
+    <id>http://www.software-quot.es/there-is-no-programming-language-in-which-it-is-the-least-bit-difficult-to-write-bad-code</id>
+    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;There is not now, nor has there ever been, nor will there ever be, any programming language in which it is the least bit difficult to write bad code.&rdquo;</span>
+<span class='by'>&ndash; Unknown &ndash; Flon&rsquo;s Law</span></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Some People, When Confronted With a Problem, Think 'I Know, I'll Use Regular Expressions.' Now They Have Two Problems.]]></title>
+    <link href="http://www.software-quot.es/some-people-when-confronted-with-a-problem-use-regular-expressions-now-they-have-two-problems/"/>
+    <updated>2014-04-22T00:00:00+04:30</updated>
+    <id>http://www.software-quot.es/some-people-when-confronted-with-a-problem-use-regular-expressions-now-they-have-two-problems</id>
+    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;Some people, when confronted with a problem, think &#8220;I know, I&rsquo;ll use regular expressions.&rdquo;
+Now they have two problems.&ldquo;</span>
+<span class='by'>&ndash; Jamie Zawinski</span></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[In Theory, There Is No Difference Between Theory and Practice. but, in Practice, There Is.]]></title>
+    <link href="http://www.software-quot.es/in-theory-there-is-no-difference-between-theory-and-practice-but-in-practice-there-is/"/>
+    <updated>2014-04-22T00:00:00+04:30</updated>
+    <id>http://www.software-quot.es/in-theory-there-is-no-difference-between-theory-and-practice-but-in-practice-there-is</id>
+    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;In theory, there is no difference between theory and practice. But, in practice, there is.&rdquo;</span>
+<span class='by'>&ndash; Jan L. A. van de Snepscheut</span></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[If Debugging Is the Process of Removing Software Bugs, Then Programming Must Be the Process of Putting Them In.]]></title>
+    <link href="http://www.software-quot.es/if-debugging-is-the-process-of-removing-bugs-programming-is-the-process-of-putting-them-in/"/>
+    <updated>2014-04-22T00:00:00+04:30</updated>
+    <id>http://www.software-quot.es/if-debugging-is-the-process-of-removing-bugs-programming-is-the-process-of-putting-them-in</id>
+    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;If debugging is the process of removing software bugs, then programming must be the process of putting them in.&rdquo;</span>
+<span class='by'>&ndash; Edsger Dijkstra</span></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[First, Solve the Problem. Then, Write the Code.]]></title>
+    <link href="http://www.software-quot.es/first-solve-the-problem-then-write-the-code/"/>
+    <updated>2014-04-22T00:00:00+04:30</updated>
+    <id>http://www.software-quot.es/first-solve-the-problem-then-write-the-code</id>
+    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;First, solve the problem. Then, write the code.&rdquo;</span>
+<span class='by'>&ndash; John Johnson</span></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Deleted Code Is Debugged Code.]]></title>
+    <link href="http://www.software-quot.es/deleted-code-is-debugged-code/"/>
+    <updated>2014-04-22T00:00:00+04:30</updated>
+    <id>http://www.software-quot.es/deleted-code-is-debugged-code</id>
+    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;Deleted code is debugged code.&rdquo;</span>
+<span class='by'>&ndash; Jeff Sickel</span></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Debugging Is Twice as Hard as Writing the Code in the First Place. Therefore, if You Write the Code as Cleverly as Possible, You Are, by Definition, Not Smart Enough to Debug It.]]></title>
+    <link href="http://www.software-quot.es/debugging-is-twice-as-hard-as-programming/"/>
+    <updated>2014-04-22T00:00:00+04:30</updated>
+    <id>http://www.software-quot.es/debugging-is-twice-as-hard-as-programming</id>
+    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.&rdquo;</span>
+<span class='by'>&ndash; Brian Kernighan</span></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Computer Science Education Cannot Make Anybody an Expert Programmer Any More Than Studying Brushes and Pigment Can Make Somebody an Expert Painter.]]></title>
+    <link href="http://www.software-quot.es/computer-science-education-cannot-make-anybody-an-expert-programmer/"/>
+    <updated>2014-04-22T00:00:00+04:30</updated>
+    <id>http://www.software-quot.es/computer-science-education-cannot-make-anybody-an-expert-programmer</id>
+    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.&rdquo;</span>
+<span class='by'>&ndash; Eric S. Raymond</span></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[A Good Programmer Is Someone Who Always Looks Both Ways Before Crossing a One-way Street.]]></title>
+    <link href="http://www.software-quot.es/a-good-programmer-is-someone-who-always-looks-both-ways-before-crossing-a-one-way-street/"/>
+    <updated>2014-04-22T00:00:00+04:30</updated>
+    <id>http://www.software-quot.es/a-good-programmer-is-someone-who-always-looks-both-ways-before-crossing-a-one-way-street</id>
+    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;A good programmer is someone who always looks both ways before crossing a one-way street.&rdquo;</span>
+<span class='by'>&ndash; Doug Linder</span></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Any Fool Can Make Something Complicated. It Takes a Genius to Make It Simple]]></title>
@@ -70,146 +211,6 @@
     <id>http://www.software-quot.es/unless-scope-is-flexible-organisations-do-not-benefit-from-agile</id>
     <content type="html"><![CDATA[<p><span class='quote'>&ldquo;Unless scope is flexible, organisations do not benefit from agile.&rdquo;</span>
 <span class='by'>&ndash; Gojko Adzic</span></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Unit Testing Won’t Help You Write Good Code]]></title>
-    <link href="http://www.software-quot.es/unit-testing-wont-help-you-write-good-code/"/>
-    <updated>2014-02-04T00:00:00+03:30</updated>
-    <id>http://www.software-quot.es/unit-testing-wont-help-you-write-good-code</id>
-    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;Unit testing won’t help you write good code.&rdquo;</span>
-<span class='by'>&ndash; Chad Okere</span></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Only Best Practice You Should Be Using All the Time Is Use Your Brain]]></title>
-    <link href="http://www.software-quot.es/the-only-best-practice-you-should-be-using-all-the-time-is-use-your-brain/"/>
-    <updated>2014-02-03T00:00:00+03:30</updated>
-    <id>http://www.software-quot.es/the-only-best-practice-you-should-be-using-all-the-time-is-use-your-brain</id>
-    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;The only “best practice” you should be using all the time is Use Your Brain.&rdquo;</span>
-<span class='by'>&ndash; Steven Robbins</span></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Most Comments in Code Are in Fact a Pernicious Form of Code Duplication.]]></title>
-    <link href="http://www.software-quot.es/most-comments-in-code-are-in-fact-a-pernicious-form-of-code-duplication/"/>
-    <updated>2014-02-03T00:00:00+03:30</updated>
-    <id>http://www.software-quot.es/most-comments-in-code-are-in-fact-a-pernicious-form-of-code-duplication</id>
-    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;Most comments in code are in fact a pernicious form of code duplication.&rdquo;</span>
-<span class='by'>&ndash; Ed Guiness</span></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[If It Hurts, Do It More Frequently, and Bring the Pain Forward]]></title>
-    <link href="http://www.software-quot.es/if-it-hurts-do-it-more-frequently-bring-the-pain-forward/"/>
-    <updated>2014-01-27T00:00:00+03:30</updated>
-    <id>http://www.software-quot.es/if-it-hurts-do-it-more-frequently-bring-the-pain-forward</id>
-    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;If it hurts, do it more frequently, and bring the pain forward.&rdquo;</span>
-<span class='by'>&ndash; Jez Humble</span></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Being Able to Write a Bloom Filter in Erlang, or Write Multi-threaded C in Your Sleep Is Insufficient. None of That Matters if No One Wants to Work With You.]]></title>
-    <link href="http://www.software-quot.es/it-does-not-matter-if-no-one-wants-to-work-with-you/"/>
-    <updated>2014-01-21T00:00:00+03:30</updated>
-    <id>http://www.software-quot.es/it-does-not-matter-if-no-one-wants-to-work-with-you</id>
-    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;Being able to write a Bloom Filter in Erlang, or write multi-threaded C in your sleep is insufficient. None of that matters if no one wants to work with you.&rdquo;</span>
-<span class='by'>&ndash; John Allspaw</span></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The First 90 Percent of the Code Accounts for the First 90 Percent of the Development Time. The Remaining 10 Percent of the Code Accounts for the Other 90 Percent of the Development Time.]]></title>
-    <link href="http://www.software-quot.es/the-first-90-percent-of-the-code-accounts-for-the-first-90-percent-of-the-dev-time/"/>
-    <updated>2014-01-14T00:00:00+03:30</updated>
-    <id>http://www.software-quot.es/the-first-90-percent-of-the-code-accounts-for-the-first-90-percent-of-the-dev-time</id>
-    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.&rdquo;</span>
-<span class='by'>&ndash; Tom Cargill &ndash; Ninety-ninety rule</span></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Given Enough Eyeballs, All Bugs Are Shallow.]]></title>
-    <link href="http://www.software-quot.es/given-enough-eyeballs-all-bugs-are-shallow/"/>
-    <updated>2014-01-14T00:00:00+03:30</updated>
-    <id>http://www.software-quot.es/given-enough-eyeballs-all-bugs-are-shallow</id>
-    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;Given enough eyeballs, all bugs are shallow.&rdquo;</span>
-<span class='by'>&ndash; Linus Torvalds &ndash; Linus’s Law</span></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Any Simple Problem Can Be Made Insoluble if Enough Meetings Are Held to Discuss It.]]></title>
-    <link href="http://www.software-quot.es/any-simple-problem-can-be-made-insoluble-if-enough-meetings-are-held/"/>
-    <updated>2014-01-13T00:00:00+03:30</updated>
-    <id>http://www.software-quot.es/any-simple-problem-can-be-made-insoluble-if-enough-meetings-are-held</id>
-    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;Any simple problem can be made insoluble if enough meetings are held to discuss it.&rdquo;</span>
-<span class='by'>&ndash; Mitchell&rsquo;s Law of Committees</span></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[There Is No End to What Can Be Accomplished if You Don’t Care Who Gets the Credit.]]></title>
-    <link href="http://www.software-quot.es/There-is-no-end-to-what-can-be-accomplished-if-you-dont-care-who-gets-the-credit/"/>
-    <updated>2014-01-13T00:00:00+03:30</updated>
-    <id>http://www.software-quot.es/There-is-no-end-to-what-can-be-accomplished-if-you-dont-care-who-gets-the-credit</id>
-    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;There is no end to what can be accomplished if you don’t care who gets the credit.&rdquo;</span>
-<span class='by'>&ndash; Art Rennison</span></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[You're Bound to Be Unhappy if You Optimize Everything.]]></title>
-    <link href="http://www.software-quot.es/youre-bound-to-be-unhappy-if-you-optimize-everything/"/>
-    <updated>2014-01-11T00:00:00+03:30</updated>
-    <id>http://www.software-quot.es/youre-bound-to-be-unhappy-if-you-optimize-everything</id>
-    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;You&rsquo;re bound to be unhappy if you optimize everything.&rdquo;</span>
-<span class='by'>&ndash; Donald Knuth</span></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Trouble With Programmers Is That You Can Never Tell What a Programmer Is Doing Until It's Too Late.]]></title>
-    <link href="http://www.software-quot.es/you-can-never-tell-what-a-programmer-is-doing-until-its-too-late/"/>
-    <updated>2014-01-11T00:00:00+03:30</updated>
-    <id>http://www.software-quot.es/you-can-never-tell-what-a-programmer-is-doing-until-its-too-late</id>
-    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;The trouble with programmers is that you can never tell what a programmer is doing until it&rsquo;s too late.&rdquo;</span>
-<span class='by'>&ndash; Seymour Cray</span></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Work Expands So as to Fill the Time Available for Its Completion.]]></title>
-    <link href="http://www.software-quot.es/work-expands-so-as-to-fill-the-time-available-for-its-completion/"/>
-    <updated>2014-01-11T00:00:00+03:30</updated>
-    <id>http://www.software-quot.es/work-expands-so-as-to-fill-the-time-available-for-its-completion</id>
-    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;Work expands so as to fill the time available for its completion.&rdquo;</span>
-<span class='by'>&ndash; Parkinson&rsquo;s Law</span></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Crash Programs Fail Because They Are Based on the Theory That, With Nine Women Pregnant, You Can Get a Baby a Month.]]></title>
-    <link href="http://www.software-quot.es/with-nine-women-pregnant-can-you-get-a-baby-a-month/"/>
-    <updated>2014-01-11T00:00:00+03:30</updated>
-    <id>http://www.software-quot.es/with-nine-women-pregnant-can-you-get-a-baby-a-month</id>
-    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;Crash programs fail because they are based on the theory that, with nine women pregnant, you can get a baby a month.&rdquo;</span>
-<span class='by'>&ndash; Wernher von Braun</span></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[When the Final Design Seems Too Simple for the Amount of Work You've Put in, Then You Know You're Done.]]></title>
-    <link href="http://www.software-quot.es/when-the-final-design-seems-too-simple-for-the-amount-of-work-youve-put-in/"/>
-    <updated>2014-01-11T00:00:00+03:30</updated>
-    <id>http://www.software-quot.es/when-the-final-design-seems-too-simple-for-the-amount-of-work-youve-put-in</id>
-    <content type="html"><![CDATA[<p><span class='quote'>&ldquo;When the final design seems too simple for the amount of work you&rsquo;ve put in, then you know you&rsquo;re done.&rdquo;</span>
-<span class='by'>&ndash; Brady Clark</span></p>
 ]]></content>
   </entry>
   
