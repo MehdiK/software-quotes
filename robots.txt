@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://MehdiK.github.io/software-quotes/sitemap.xml 
